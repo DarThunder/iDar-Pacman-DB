@@ -7,7 +7,4 @@ The official Data Base for iDar-Pacman (for now lol)
     dev = "DarThunder",
     package_name = "Repo-Name",
     latest = "v1.0",
-    ["1.0"] = "v1.0",
-    ["1.1"] = "v1.1"
-    ...
 }
