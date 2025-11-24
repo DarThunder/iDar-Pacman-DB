@@ -24,4 +24,9 @@ return {
         package_name = "iDar-Codecs",
         latest = "Beta-v1.0.3"
     },
+    ["idar-pacman"] = {
+        dev = "DarThunder",
+        package_name = "iDar-Pacman",
+        latest = "v1.0.2"
+    },
 }
