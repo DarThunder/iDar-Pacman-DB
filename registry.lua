@@ -17,7 +17,7 @@ return {
     ["idar-structures"] = {
         dev = "DarThunder",
         package_name = "iDar-Structures",
-        latest = "Beta-v0.1.0"
+        latest = "Beta-v0.1.1"
     },
     ["idar-codecs"] = {
         dev = "DarThunder",
