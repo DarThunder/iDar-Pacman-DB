@@ -27,6 +27,6 @@ return {
     ["idar-pacman"] = {
         dev = "DarThunder",
         package_name = "iDar-Pacman",
-        latest = "v1.0.2"
+        latest = "v2.0.0"
     },
 }
