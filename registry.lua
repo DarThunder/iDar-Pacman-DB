@@ -2,7 +2,7 @@ return {
     ["idar-cryptolib"] = {
         dev = "DarThunder",
         package_name = "iDar-CryptoLib",
-        latest = "v0.4.3"
+        latest = "v0.4.4"
     },
     ["idar-bignum"] = {
         dev = "DarThunder",
