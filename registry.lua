@@ -9,15 +9,10 @@ return {
         package_name = "iDar-BigNum",
         latest = "v2.0.3"
     },
-    ["idar-db"] = {
-        dev = "DarThunder",
-        package_name = "iDar-DB",
-        latest = "v0.1.0-alpha"
-    },
     ["idar-structures"] = {
         dev = "DarThunder",
         package_name = "iDar-Structures",
-        latest = "Beta-v0.1.1"
+        latest = "Beta-v0.1.2"
     },
     ["idar-codecs"] = {
         dev = "DarThunder",
