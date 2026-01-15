@@ -12,7 +12,7 @@ return {
     ["idar-structures"] = {
         dev = "DarThunder",
         package_name = "iDar-Structures",
-        latest = "Beta-v0.1.2"
+        latest = "Beta-v0.1.3"
     },
     ["idar-codecs"] = {
         dev = "DarThunder",
@@ -22,6 +22,16 @@ return {
     ["idar-data"] = {
         dev = "DarThunder",
         package_name = "iDar-Data",
+        latest = "v1.0.0"
+    },
+    ["idar-spatial"] = {
+        dev = "DarThunder",
+        package_name = "iDar-Spatial",
+        latest = "v1.0.0"
+    },
+    ["idar-genpath"] = {
+        dev = "DarThunder",
+        package_name = "iDar-GenPath",
         latest = "v1.0.0"
     }
 }
