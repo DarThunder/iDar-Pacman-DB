@@ -33,5 +33,10 @@ return {
         dev = "DarThunder",
         package_name = "iDar-GenPath",
         latest = "v1.0.0"
+    },
+    ["idar-loom"] = {
+        dev = "DarThunder",
+        package_name = "iDar-Loom",
+        latest = "Alpha-v1.0.0"
     }
 }
