@@ -37,6 +37,11 @@ return {
     ["idar-loom"] = {
         dev = "DarThunder",
         package_name = "iDar-Loom",
+        latest = "Alpha-v1.0.1"
+    },
+    ["idar-shell"] = {
+        dev = "DarThunder",
+        package_name = "iDar-Shell",
         latest = "Alpha-v1.0.0"
     }
 }
