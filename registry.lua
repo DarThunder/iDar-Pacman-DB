@@ -2,37 +2,37 @@ return {
     ["idar-cryptolib"] = {
         dev = "DarThunder",
         package_name = "iDar-CryptoLib",
-        latest = "v0.4.4"
+        latest = "v0.4.5"
     },
     ["idar-bignum"] = {
         dev = "DarThunder",
         package_name = "iDar-BigNum",
-        latest = "v2.0.3"
+        latest = "v2.0.4"
     },
     ["idar-structures"] = {
         dev = "DarThunder",
         package_name = "iDar-Structures",
-        latest = "Beta-v0.1.3"
+        latest = "Beta-v0.1.6"
     },
     ["idar-codecs"] = {
         dev = "DarThunder",
         package_name = "iDar-Codecs",
-        latest = "Beta-v1.0.4"
+        latest = "Beta-v1.0.5"
     },
     ["idar-data"] = {
         dev = "DarThunder",
         package_name = "iDar-Data",
-        latest = "v1.0.0"
+        latest = "v1.0.1"
     },
     ["idar-spatial"] = {
         dev = "DarThunder",
         package_name = "iDar-Spatial",
-        latest = "v1.0.0"
+        latest = "v1.0.1"
     },
     ["idar-genpath"] = {
         dev = "DarThunder",
         package_name = "iDar-GenPath",
-        latest = "v1.0.0"
+        latest = "v1.0.1"
     },
     ["idar-loom"] = {
         dev = "DarThunder",
@@ -43,5 +43,10 @@ return {
         dev = "DarThunder",
         package_name = "iDar-Shell",
         latest = "Alpha-v1.0.0"
+    },
+    ["idar-boot"] = {
+        dev = "DarThunder",
+        package_name = "iDar-Boot",
+        latest = "Alpha-v1.0.1"
     }
 }
