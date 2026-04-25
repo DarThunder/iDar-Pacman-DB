@@ -2,12 +2,12 @@ return {
     ["idar-cryptolib"] = {
         dev = "DarThunder",
         package_name = "iDar-CryptoLib",
-        latest = "v0.4.5"
+        latest = "Beta-v0.4.5"
     },
     ["idar-bignum"] = {
         dev = "DarThunder",
         package_name = "iDar-BigNum",
-        latest = "v2.0.4"
+        latest = "Beta-v2.0.4"
     },
     ["idar-structures"] = {
         dev = "DarThunder",
@@ -47,6 +47,7 @@ return {
     ["idar-boot"] = {
         dev = "DarThunder",
         package_name = "iDar-Boot",
+        sudo = true,
         latest = "Alpha-v1.0.1"
     }
 }
