@@ -37,12 +37,12 @@ return {
     ["idar-loom"] = {
         dev = "DarThunder",
         package_name = "iDar-Loom",
-        latest = "Alpha-v1.0.1"
+        latest = "Alpha-v2.0.0"
     },
     ["idar-shell"] = {
         dev = "DarThunder",
         package_name = "iDar-Shell",
-        latest = "Alpha-v1.0.0"
+        latest = "Alpha-v2.0.0"
     },
     ["idar-boot"] = {
         dev = "DarThunder",
